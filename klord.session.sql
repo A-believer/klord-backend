@@ -1,0 +1,8 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE TABLE get_started;
+TRUNCATE TABLE job_applications;
+TRUNCATE TABLE newsletter_signup;
+TRUNCATE TABLE live_chat;
+SET FOREIGN_KEY_CHECKS = 1;
+
+
